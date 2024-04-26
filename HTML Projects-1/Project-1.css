@@ -1,0 +1,48 @@
+h1 {
+    color: gray;
+    text-shadow: 2px 5px 10px;
+    margin-bottom: -2% ;
+}
+
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+form {
+    background-color: gray;
+    max-width: 220px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px;
+}
+
+.form-control {
+    text-align: left;
+    margin-bottom: 8px;
+}
+
+.form-control label {
+    display: block;
+    font-size: large;
+    color: aliceblue;
+}
+
+button {
+    font-size: large;
+    box-shadow: 2px 5px 10px;
+    color: gray;
+
+}
+
+textarea {
+    color: gray;
+    font-size: small;
+    text-shadow: 2px 5px 10px;
+}
+
+input, select {
+    text-shadow: 2px 5px 10px;
+    color: gray;
+}
+
